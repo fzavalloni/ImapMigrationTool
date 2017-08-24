@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfigurationData>
+  <srcServer>webmail.mailcorp.net.br</srcServer>
+  <srcAdminUser>migracao@locaweb.com.br</srcAdminUser>
+  <srcAdminPassword>631vCFIJKY01Mm5n7Sq2yg==</srcAdminPassword>
+  <srcIsExchange2003>False</srcIsExchange2003>
+  <srvExchange2003Domain>ex2003</srvExchange2003Domain>
+  <srcImapPort>143</srcImapPort>
+  <srcSSL>False</srcSSL>
+  <tgtServer>exchange.vcaremail.com.br</tgtServer>
+  <tgtAdminUser>migracao@fabriziozavalloni.com.br</tgtAdminUser>
+  <tgtAdminPassword>631vCFIJKY01Mm5n7Sq2yg==</tgtAdminPassword>
+  <tgtImapPort>993</tgtImapPort>
+  <tgtSSL>True</tgtSSL>
+  <logEnabled>True</logEnabled>
+  <logPath>c:\logsimap\</logPath>
+  <maxThreads>5</maxThreads>  
+  <srcServerVerion>Exchange2007_SP1</srcServerVerion>
+  <tgtServerVersion>Exchange2010_SP2</tgtServerVersion>
+  <imapSyncArgs>--buffersize 8192000 --nosyncacls --subscribe_all --exclude Contacts --exclude Contatos --exclude Tarefas --exclude Tasks --syncinternaldates --noauthmd5 --host1 {0} --authuser1 {1} --user1 {2} {11} --password1 {3} {4} --port1 {5} --host2 {6} {7} --authuser2 {8} --user2 {9} --password2 {10}</imapSyncArgs>
+  <ewsMessageMigration>true</ewsMessageMigration>
+  <ewsMessage>true</ewsMessage>
+  <ewsContacts>true</ewsContacts>
+  <ewsCalendar>true</ewsCalendar>
+  <ewsTasks>true</ewsTasks>
+  <ewsInboxRules>true</ewsInboxRules>
+  <removeDuplicate>true</removeDuplicate>
+  <migrateDefaultFolderName>true</migrateDefaultFolderName>
+</ConfigurationData>

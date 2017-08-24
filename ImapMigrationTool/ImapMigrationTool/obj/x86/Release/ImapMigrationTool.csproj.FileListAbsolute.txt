@@ -1,0 +1,216 @@
+C:\Users\fleonardo\Projetos\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe
+C:\Users\fleonardo\Projetos\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.pdb
+C:\Users\fleonardo\Projetos\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\fleonardo\Projetos\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formAddMailbox.resources
+C:\Users\fleonardo\Projetos\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.FormDashboard.resources
+C:\Users\fleonardo\Projetos\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.Properties.Resources.resources
+C:\Users\fleonardo\Projetos\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\fleonardo\Projetos\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\fleonardo\Projetos\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.exe
+C:\Users\fleonardo\Projetos\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.pdb
+C:\Users\fleonardo\Projetos\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formOptions.resources
+C:\Users\fleonardo\Projetos\ImapMigrationTool\ImapMigrationTool\bin\Release\Resources\imapsync.exe
+C:\Users\fleonardo\Projetos\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe.config
+C:\Users\fleonardo\Projetos\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\fleonardo\Projetos\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\fleonardo\Projetos\ImapMigrationTool\ImapMigrationTool\bin\Release\Microsoft.Exchange.WebServices.dll
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe.config
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.exe
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.pdb
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\bin\Release\Resources\imapsync.exe
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.pdb
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\bin\Release\Microsoft.Exchange.WebServices.dll
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formAddMailbox.resources
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.FormDashboard.resources
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formOptions.resources
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.Properties.Resources.resources
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ResGen.write.1.tlog
+D:\Arquivos\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe.config
+D:\Arquivos\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.exe
+D:\Arquivos\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.pdb
+D:\Arquivos\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\bin\Release\Resources\imapsync.exe
+D:\Arquivos\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe
+D:\Arquivos\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.pdb
+D:\Arquivos\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formAddMailbox.resources
+D:\Arquivos\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.FormDashboard.resources
+D:\Arquivos\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formOptions.resources
+D:\Arquivos\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.Properties.Resources.resources
+D:\Arquivos\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csproj.GenerateResource.Cache
+D:\Arquivos\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csprojResolveAssemblyReference.cache
+D:\Arquivos\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\bin\Release\Microsoft.Exchange.WebServices.dll
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe.config
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.exe
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.pdb
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\bin\Release\Resources\imapsync.exe
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.pdb
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\bin\Release\Microsoft.Exchange.WebServices.dll
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formAddMailbox.resources
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.FormDashboard.resources
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formOptions.resources
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.Properties.Resources.resources
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csproj.GenerateResource.Cache
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Common.dll
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Imap4.dll
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csprojResolveAssemblyReference.cache
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe.config
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.exe
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.pdb
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\bin\Release\Resources\imapsync.exe
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.pdb
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Common.dll
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Imap4.dll
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\bin\Release\Microsoft.Exchange.WebServices.dll
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formAddMailbox.resources
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.FormDashboard.resources
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formOptions.resources
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.Properties.Resources.resources
+C:\Users\fleonardo\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csproj.GenerateResource.Cache
+C:\Users\fleonardo\Documentos\Desenvolvimento - .NET\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe.config
+C:\Users\fleonardo\Documentos\Desenvolvimento - .NET\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.exe
+C:\Users\fleonardo\Documentos\Desenvolvimento - .NET\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.pdb
+C:\Users\fleonardo\Documentos\Desenvolvimento - .NET\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\bin\Release\Resources\imapsync.exe
+C:\Users\fleonardo\Documentos\Desenvolvimento - .NET\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe
+C:\Users\fleonardo\Documentos\Desenvolvimento - .NET\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.pdb
+C:\Users\fleonardo\Documentos\Desenvolvimento - .NET\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Common.dll
+C:\Users\fleonardo\Documentos\Desenvolvimento - .NET\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Imap4.dll
+C:\Users\fleonardo\Documentos\Desenvolvimento - .NET\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\bin\Release\Microsoft.Exchange.WebServices.dll
+C:\Users\fleonardo\Documentos\Desenvolvimento - .NET\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formAddMailbox.resources
+C:\Users\fleonardo\Documentos\Desenvolvimento - .NET\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.FormDashboard.resources
+C:\Users\fleonardo\Documentos\Desenvolvimento - .NET\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formOptions.resources
+C:\Users\fleonardo\Documentos\Desenvolvimento - .NET\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.Properties.Resources.resources
+C:\Users\fleonardo\Documentos\Desenvolvimento - .NET\Backup_Locaweb\GIT\ImapMigrationTool\ImapMigrationTool-v1.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csproj.GenerateResource.Cache
+C:\Users\fleonardo\Documentos\OneDrive\Desenvolvimento - .NET\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe.config
+C:\Users\fleonardo\Documentos\OneDrive\Desenvolvimento - .NET\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.exe
+C:\Users\fleonardo\Documentos\OneDrive\Desenvolvimento - .NET\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.pdb
+C:\Users\fleonardo\Documentos\OneDrive\Desenvolvimento - .NET\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formAddMailbox.resources
+C:\Users\fleonardo\Documentos\OneDrive\Desenvolvimento - .NET\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.FormDashboard.resources
+C:\Users\fleonardo\Documentos\OneDrive\Desenvolvimento - .NET\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formOptions.resources
+C:\Users\fleonardo\Documentos\OneDrive\Desenvolvimento - .NET\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.Properties.Resources.resources
+C:\Users\fleonardo\Documentos\OneDrive\Desenvolvimento - .NET\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csproj.GenerateResource.Cache
+C:\Users\fleonardo\Documentos\OneDrive\Desenvolvimento - .NET\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\bin\Release\Resources\imapsync.exe
+C:\Users\fleonardo\Documentos\OneDrive\Desenvolvimento - .NET\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe
+C:\Users\fleonardo\Documentos\OneDrive\Desenvolvimento - .NET\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.pdb
+C:\Users\fleonardo\Documentos\OneDrive\Desenvolvimento - .NET\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Common.dll
+C:\Users\fleonardo\Documentos\OneDrive\Desenvolvimento - .NET\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Imap4.dll
+C:\Users\fleonardo\Documentos\OneDrive\Desenvolvimento - .NET\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\bin\Release\Microsoft.Exchange.WebServices.dll
+C:\Users\fleonardo\Documentos\OneDrive\Desenvolvimento - .NET\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csprojResolveAssemblyReference.cache
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe.config
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\bin\Release\Resources\imapsync.exe
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.pdb
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Common.dll
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Imap4.dll
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\bin\Release\Microsoft.Exchange.WebServices.dll
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csprojResolveAssemblyReference.cache
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formAddMailbox.resources
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.FormDashboard.resources
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formOptions.resources
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.Properties.Resources.resources
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csproj.GenerateResource.Cache
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.exe
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.pdb
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe.config
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\bin\Release\Resources\imapsync.exe
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.pdb
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Common.dll
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Imap4.dll
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\bin\Release\Microsoft.Exchange.WebServices.dll
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formAddMailbox.resources
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.FormDashboard.resources
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formOptions.resources
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.Properties.Resources.resources
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csproj.GenerateResource.Cache
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.exe
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.pdb
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\ImapMigrationTool\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csprojResolveAssemblyReference.cache
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe.config
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.exe
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.pdb
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\bin\Release\Resources\imapsync.exe
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.pdb
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Common.dll
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Imap4.dll
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formAddMailbox.resources
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.FormDashboard.resources
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formOptions.resources
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.Properties.Resources.resources
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csproj.GenerateResource.Cache
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csprojResolveAssemblyReference.cache
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\Resources\imapsync.exe
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe.config
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.pdb
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Common.dll
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Imap4.dll
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formAddMailbox.resources
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.FormDashboard.resources
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formOptions.resources
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.Properties.Resources.resources
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csproj.GenerateResource.Cache
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.exe
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.pdb
+D:\Users\fabrizio.zavalloni\Documentos\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csprojResolveAssemblyReference.cache
+D:\Users\fabrizio.zavalloni\Documentos\OneDrive - Locaweb-\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe.config
+D:\Users\fabrizio.zavalloni\Documentos\OneDrive - Locaweb-\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.exe
+D:\Users\fabrizio.zavalloni\Documentos\OneDrive - Locaweb-\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.pdb
+D:\Users\fabrizio.zavalloni\Documentos\OneDrive - Locaweb-\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\Resources\imapsync.exe
+D:\Users\fabrizio.zavalloni\Documentos\OneDrive - Locaweb-\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe
+D:\Users\fabrizio.zavalloni\Documentos\OneDrive - Locaweb-\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.pdb
+D:\Users\fabrizio.zavalloni\Documentos\OneDrive - Locaweb-\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Common.dll
+D:\Users\fabrizio.zavalloni\Documentos\OneDrive - Locaweb-\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Imap4.dll
+D:\Users\fabrizio.zavalloni\Documentos\OneDrive - Locaweb-\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formAddMailbox.resources
+D:\Users\fabrizio.zavalloni\Documentos\OneDrive - Locaweb-\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.FormDashboard.resources
+D:\Users\fabrizio.zavalloni\Documentos\OneDrive - Locaweb-\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formOptions.resources
+D:\Users\fabrizio.zavalloni\Documentos\OneDrive - Locaweb-\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.Properties.Resources.resources
+D:\Users\fabrizio.zavalloni\Documentos\OneDrive - Locaweb-\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csproj.GenerateResource.Cache
+D:\Users\fabrizio.zavalloni\Documentos\OneDrive - Locaweb-\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csprojResolveAssemblyReference.cache
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe.config
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.exe
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.pdb
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\Resources\imapsync.exe
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.pdb
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Common.dll
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Imap4.dll
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formAddMailbox.resources
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.FormDashboard.resources
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formOptions.resources
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.Properties.Resources.resources
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.1\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csproj.GenerateResource.Cache
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.4\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe.config
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.exe
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.pdb
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.4\ImapMigrationTool\ImapMigrationTool\bin\Release\Resources\imapsync.exe
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.4\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.4\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.pdb
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.4\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Common.dll
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.4\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Imap4.dll
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formAddMailbox.resources
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.FormDashboard.resources
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formOptions.resources
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.Properties.Resources.resources
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csproj.GenerateResource.Cache
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.4\ImapMigrationTool\ImapMigrationTool\bin\Release\Microsoft.Exchange.WebServices.dll
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.4\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csprojResolveAssemblyReference.cache
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe.config
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.exe
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.pdb
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\bin\Release\Resources\imapsync.exe
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.exe
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\bin\Release\ImapMigrationTool.pdb
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Common.dll
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\bin\Release\ActiveUp.Net.Imap4.dll
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\bin\Release\Microsoft.Exchange.WebServices.dll
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formAddMailbox.resources
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.FormDashboard.resources
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formOptions.resources
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.Properties.Resources.resources
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csproj.GenerateResource.Cache
+D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csprojResolveAssemblyReference.cache

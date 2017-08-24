@@ -1,0 +1,15 @@
+Versão: 1.3.4 - Adicionar tempo atual durante a migração
+Versão: 1.4 - Adcionar migração de mensagens usando o EWS
+versão: 1.5 - Adicionando migração de Inbox Rules
+versão: 1.5.1 - Adicionar try/catch para evitar problemas na migracao de calendario e tarefas para Exchange 2013
+	      - Adicionar metodos que fazem migração de grupos de contatos
+
+versão: 1.6 - Corrigido problema de migração de Tarefas de RememberSet
+	    - Adicionado opção de desativar tipos de objetos para migração
+	    - Adicionado opção de remover objetos duplicados e realizar sincronismo atraves de pasta.
+	    - Removido call do Garbage Collector para cada save de objetos.
+
+Versão: 1.6.6 - Correção de problemas de ContactGroup que não aceitava Objectkey como null
+
+Versão: 1.6.7 - Correção de problemas de Emails do Itens Enviados virem sem From e correção do calculo
+		do tamanho da mensagem no log de erro.

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfigurationData>
+  <srcServer>webmail.exchange.locaweb.com.br</srcServer>
+  <srcAdminUser>locawebmigration@ramaral.adv.br</srcAdminUser>
+  <srcAdminPassword>EuDJSvggEhkS/SszN+8u4w==</srcAdminPassword>
+  <srcIsExchange2003>False</srcIsExchange2003>
+  <srvExchange2003Domain>ex2003</srvExchange2003Domain>
+  <srcImapPort>143</srcImapPort>
+  <srcSSL>False</srcSSL>
+  <tgtServer>mail.exchangecorp.com.br</tgtServer>
+  <tgtAdminUser>MigrationEwsUser@mail.collab.local</tgtAdminUser>
+  <tgtAdminPassword>4nIaPcYnmx5by1KhNYWutY2b9HCNrJyJOzFu5d6R7LuozMcvpgwing==</tgtAdminPassword>
+  <tgtImapPort>993</tgtImapPort>
+  <tgtSSL>True</tgtSSL>
+  <logEnabled>True</logEnabled>
+  <logPath>D:\Users\fabrizio.zavalloni\Desktop\LogsImapMigrationTool\</logPath>
+  <maxThreads>20</maxThreads>
+  <srcServerVerion>Exchange2010_SP2</srcServerVerion>
+  <tgtServerVersion>Exchange2013_SP1</tgtServerVersion>
+  <imapSyncArgs>--buffersize 8192000 --nosyncacls --subscribe_all --exclude Contacts --exclude Contatos --exclude Tarefas --exclude Tasks --syncinternaldates --noauthmd5 --host1 {0} --authuser1 {1} --user1 {2} {11} --password1 {3} {4} --port1 {5} --host2 {6} {7} --authuser2 {8} --user2 {9} --password2 {10}</imapSyncArgs>
+  <ewsMessageMigration>True</ewsMessageMigration>
+  <ewsMessage>True</ewsMessage>
+  <ewsContacts>True</ewsContacts>
+  <ewsCalendar>False</ewsCalendar>
+  <ewsTasks>True</ewsTasks>
+  <ewsInboxRules>True</ewsInboxRules>
+  <removeDuplicate>False</removeDuplicate>
+  <migrateDefaultFolderName>False</migrateDefaultFolderName>
+</ConfigurationData>
