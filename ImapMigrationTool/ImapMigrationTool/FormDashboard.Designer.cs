@@ -289,7 +289,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "FormDashboard";
-            this.Text = "DashBoard - ImapMigrationTool- v1.6.7";
+            this.Text = "DashBoard - ImapMigrationTool- v1.6.8";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.FormDashboard_Load);
             this.menuStrip1.ResumeLayout(false);

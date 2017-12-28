@@ -13,3 +13,6 @@ Versão: 1.6.6 - Correção de problemas de ContactGroup que não aceitava Objectkey
 
 Versão: 1.6.7 - Correção de problemas de Emails do Itens Enviados virem sem From e correção do calculo
 		do tamanho da mensagem no log de erro.
+
+Versão: 1.6.8 - Correção de tratamento de erro ao tentar criar pastas já criadas. Esse problema ocorria
+		em caixas postais hospedadas no Exchange 2016

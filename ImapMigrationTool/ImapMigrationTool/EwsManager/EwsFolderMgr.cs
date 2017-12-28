@@ -105,10 +105,15 @@ namespace ImapMigrationTool.EwsManager
             }
             catch (Exception erro)
             {
-                if (!erro.Message.Equals("A folder with the specified name already exists.", StringComparison.CurrentCultureIgnoreCase))
-                {
-                    throw new Exception(erro.Message);
-                }
+                ValidationCreationFolderException(erro);
+            }
+        }
+
+        private void ValidationCreationFolderException(Exception erro)
+        {
+            if (!erro.Message.Contains("A folder with the specified name already exists."))
+            {
+                throw new Exception(erro.Message);
             }
         }
 
@@ -124,10 +129,7 @@ namespace ImapMigrationTool.EwsManager
             }
             catch (Exception erro)
             {
-                if (!erro.Message.Equals("A folder with the specified name already exists.", StringComparison.CurrentCultureIgnoreCase))
-                {
-                    throw new Exception(erro.Message);
-                }
+                ValidationCreationFolderException(erro);
             }
         }
 
@@ -143,10 +145,7 @@ namespace ImapMigrationTool.EwsManager
             }
             catch (Exception erro)
             {
-                if (!erro.Message.Equals("A folder with the specified name already exists.", StringComparison.CurrentCultureIgnoreCase))
-                {
-                    throw new Exception(erro.Message);
-                }
+                ValidationCreationFolderException(erro);
             }
         }
 
@@ -162,10 +161,7 @@ namespace ImapMigrationTool.EwsManager
             }
             catch (Exception erro)
             {
-                if (!erro.Message.Equals("A folder with the specified name already exists.", StringComparison.CurrentCultureIgnoreCase))
-                {
-                    throw new Exception(erro.Message);
-                }
+                ValidationCreationFolderException(erro);
             }
         }
 
@@ -182,10 +178,7 @@ namespace ImapMigrationTool.EwsManager
             }
             catch (Exception erro)
             {
-                if (!erro.Message.Equals("A folder with the specified name already exists.", StringComparison.CurrentCultureIgnoreCase))
-                {
-                    throw new Exception(erro.Message);
-                }
+                ValidationCreationFolderException(erro);
             }
         }
 
@@ -200,10 +193,7 @@ namespace ImapMigrationTool.EwsManager
             }
             catch (Exception erro)
             {
-                if (!erro.Message.Equals("A folder with the specified name already exists.", StringComparison.CurrentCultureIgnoreCase))
-                {
-                    throw new Exception(erro.Message);
-                }
+                ValidationCreationFolderException(erro);
             }
         }
 
@@ -219,10 +209,7 @@ namespace ImapMigrationTool.EwsManager
             }
             catch (Exception erro)
             {
-                if (!erro.Message.Equals("A folder with the specified name already exists.", StringComparison.CurrentCultureIgnoreCase))
-                {
-                    throw new Exception(erro.Message);
-                }
+                ValidationCreationFolderException(erro);
             }
         }
 
@@ -238,10 +225,7 @@ namespace ImapMigrationTool.EwsManager
             }
             catch (Exception erro)
             {
-                if (!erro.Message.Equals("A folder with the specified name already exists.", StringComparison.CurrentCultureIgnoreCase))
-                {
-                    throw new Exception(erro.Message);
-                }
+                ValidationCreationFolderException(erro);
             }
         }
 
@@ -257,10 +241,7 @@ namespace ImapMigrationTool.EwsManager
             }
             catch (Exception erro)
             {
-                if (!erro.Message.Equals("A folder with the specified name already exists.", StringComparison.CurrentCultureIgnoreCase))
-                {
-                    throw new Exception(erro.Message);
-                }
+                ValidationCreationFolderException(erro);
             }
         }
 
@@ -276,10 +257,7 @@ namespace ImapMigrationTool.EwsManager
             }
             catch (Exception erro)
             {
-                if (!erro.Message.Equals("A folder with the specified name already exists.", StringComparison.CurrentCultureIgnoreCase))
-                {
-                    throw new Exception(erro.Message);
-                }
+                ValidationCreationFolderException(erro);
             }
         }
 

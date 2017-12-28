@@ -50,7 +50,8 @@ namespace ImapMigrationTool.EwsManager
 
             foreach (FolderIdentity folderSource in folderListSourceSrv)
             {
-                if (!folderListTargetSrv.Exists(new Predicate<FolderIdentity>(i => i.FolderPath == folderSource.FolderPath)))
+                
+                if (!folderListTargetSrv.Exists(new Predicate<FolderIdentity>(i => string.Equals(i.FolderPath,folderSource.FolderPath,StringComparison.CurrentCultureIgnoreCase))))
                 {
                     cleanedList.Add(folderSource);
                 }

@@ -213,4 +213,3 @@ D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1
 D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.formOptions.resources
 D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.Properties.Resources.resources
 D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csproj.GenerateResource.Cache
-D:\Users\fabrizio.zavalloni\Documentos\OD\Projetos-.NET\Git\ImapMigrationTool-v1.6.5\ImapMigrationTool\ImapMigrationTool\obj\x86\Release\ImapMigrationTool.csprojResolveAssemblyReference.cache

@@ -21,7 +21,7 @@
   <ewsMessageMigration>True</ewsMessageMigration>
   <ewsMessage>True</ewsMessage>
   <ewsContacts>True</ewsContacts>
-  <ewsCalendar>False</ewsCalendar>
+  <ewsCalendar>True</ewsCalendar>
   <ewsTasks>True</ewsTasks>
   <ewsInboxRules>True</ewsInboxRules>
   <removeDuplicate>False</removeDuplicate>
